@@ -1,0 +1,9 @@
+coreos-vagrant
+docker-example-capistrano
+docker-example-rails
+docker-hello-world
+pullreq
+.cache
+.bash_history
+.vagrant
+.viminfo
